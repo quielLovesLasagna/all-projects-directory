@@ -30,6 +30,8 @@ This repository serves as a directory to help you easily navigate my project rep
 
 ## G <a id="g"></a>
 
+- <a href="https://github.com/quielLovesLasagna/glass-effect-login-page">Glass Effect Login Page</a> - A simple Glass Effect Login Page
+
 ## H <a id="h"></a>
 
 ## I <a id="i"></a>
