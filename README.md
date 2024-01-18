@@ -26,6 +26,8 @@ This repository serves as a directory to help you easily navigate my project rep
 
 - <a href="https://github.com/quielLovesLasagna/food-delivery-app-ui">Food App</a> - A simple landing page of a food app
 
+- <a href="https://github.com/quielLovesLasagna/pp-food-card-ui-component">Food Card UI</a> - A simple Food Card UI component.
+
 ## G <a id="g"></a>
 
 ## H <a id="h"></a>
@@ -41,6 +43,8 @@ This repository serves as a directory to help you easily navigate my project rep
 ## M <a id="m"></a>
 
 - <a href="https://github.com/quielLovesLasagna/18-modals-and-popups">Modals and popups</a> - A collection of Modals and Popups
+
+- <a href="https://github.com/quielLovesLasagna/minecraft-creeper-face">Minecraft Creeper face - CSS Art</a> - A simple CSS Minecraft Creeper face art.
 
 ## N <a id="n"></a>
 
