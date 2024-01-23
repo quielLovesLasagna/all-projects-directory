@@ -20,6 +20,8 @@ This repository serves as a directory to help you easily navigate my project rep
 
 - <a href="https://github.com/quielLovesLasagna/department-list-ui">Department List Dashboard</a> - A very simple department list dashboard
 
+- <a href="https://github.com/quielLovesLasagna/dota-2-hero-overview">Dota 2 Hero Overview</a> - A simple Dota 2 single hero overview
+
 ## E <a id="e"></a>
 
 ## F <a id="f"></a>
