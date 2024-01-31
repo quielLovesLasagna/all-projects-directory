@@ -40,9 +40,15 @@ This repository serves as a directory to help you easily navigate my project rep
 
 ## J <a id="j"></a>
 
+- <a href="https://github.com/quielLovesLasagna/jordan-product-details-ui-design">Jordan Product Details UI</a> - Product Details UI - Jordan
+
 ## K <a id="k"></a>
 
 ## L <a id="l"></a>
+
+- <a href="https://github.com/quielLovesLasagna/login-page-1">Login Page - 1</a> - A simple login page
+
+- <a href="https://github.com/quielLovesLasagna/login-page-2">Login Page - 2</a> - A simple login page
 
 ## M <a id="m"></a>
 
@@ -51,6 +57,8 @@ This repository serves as a directory to help you easily navigate my project rep
 - <a href="https://github.com/quielLovesLasagna/minecraft-creeper-face">Minecraft Creeper face - CSS Art</a> - A simple CSS Minecraft Creeper face art.
 
 ## N <a id="n"></a>
+
+- <a href="https://github.com/quielLovesLasagna/nike-product-details-ui-design">Nike Product Details UI</a> - Product Details UI - Nike
 
 ## O <a id="o"></a>
 
